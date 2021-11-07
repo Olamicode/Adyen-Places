@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">adyen places</string>
+    <string name="search_instructions">Tap the magnifying glass to start searching</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="could_not_load_search_results">Could not load results: %s</string>
+    <string name="permission_to_access">Permission to access your %s is required to use this app</string>
+    <string name="permission_required_title">Permission required</string>
+    <string name="okay">Ok</string>
+    <string name="permission_refused_message">permission refused</string>
+    <string name="location">location</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="address_not_available">Address not available</string>
+    <string name="retry">Retry</string>
+    <string name="location_error">location is not enable.</string>
+</resources>
