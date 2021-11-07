@@ -1,4 +1,4 @@
-# Adyen-Places
+# Places
 
 ## Setup
 Add your Foursquare client ID and secret to `local.gradle`. See `local.gradle.example` for details.
